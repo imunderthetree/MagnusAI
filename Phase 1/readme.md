@@ -149,4 +149,3 @@ training_data.maxlen = 20000    # Experience buffer size
 
 ---
 
-**Tags**: `#AI` `#MachineLearning` `#DeepLearning` `#ReinforcementLearning` `#ChessAI` `#NeuralNetworks` `#SelfPlay` `#MCTS`
